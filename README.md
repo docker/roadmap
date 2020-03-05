@@ -12,7 +12,8 @@ Contribute to our roadmap »
 
 ## Early Access to features 
 
-For Windows and Mac users of Docker we provide early access to new features through our Docker Desktop Edge channel. Issues tagged In Preview for Docker Desktop on the public roadmap are available in the Edge Channel. 
+For Windows and Mac users of Docker we provide early access to new features through our Docker Desktop Edge channel. 
+Issues tagged In Preview for Docker Desktop on the public roadmap are available in the Edge Channel. 
 For Docker Engine we have a release candidate program that allows users to get early access to versions of Docker engine with new features and changes. Issues tagged In Preview for Docker Engine on the public roadmap are available in the RC version of Engine. 
 Note: depending on release timings Docker Desktop may have the RC engine, please check the release notes for Docker Desktop to verify the current version in Edge 
 
@@ -51,6 +52,7 @@ If you think you’ve found a potential security issue, please do not post it in
 **A:** Please open an issue!
 
 **Q:** How can I request a feature be added to the roadmap?
+
 **A:** Please open an issue! You can read about how to contribute here. Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
 
 **Q:** Will you accept a pull request?
