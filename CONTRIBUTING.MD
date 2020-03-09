@@ -1,18 +1,18 @@
 # Contributing Guidelines
 
-We hope you are enjoying Docker and look forward to hearing your feedback. Whether you want to raise a bug report, a feature request or just request a correction to something we really value our community input.
+We hope you are enjoying Docker and look forward to hearing your feedback. Whether you want to raise a bug report, a feature request or just request a correction to something, we really value our community input.
 
-We do ask though that you read all of this document you send us any issues or raise pull requests to make sure we understand clearly what you are asking for, this helps us make sure we are making the right decisions and taking the right actions.  
+We do ask that you read this document and send us any issues or raise pull requests to make sure we understand clearly what you are asking for. This will help ensure we are making the right decisions and taking the right actions.
 
 ## Feature Requests
 
 You are very welcome to create new issues on this project to request new features in any of Docker products.
 
-If you would like to suggest a new feature we ask that you please use our issue template. This contains a few essential questions that help us understand the problem you are looking to solve and how you think your reocommendation will address it. We alsotag incoming issues from this template with "community_new".  This lets our teams quickly see what has been raised and better find our community recommendations
+If you would like to suggest a new feature, we ask that you please use our issue template. This contains a few essential questions that help us understand the problem you are looking to solve and how you think your recommendation will address it. We also tag incoming issues from this template with "community_new". This lets our teams quickly see what has been raised and better address the community recommendations.
 
 To see what has already been proposed by the community you can look [here](https://github.com/docker/docker-roadmap/labels/community_new).
 
-Watch our for duplicates! If you are creating a new issue, please check [existing open](https://github.com/docker/docker-roadmap/issues), or [recently closed](https://github.com/docker/docker-roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20) . Having a single voted for issue is far easier for us to prioritize 
+"Watch out for duplicates!" If you are creating a new issue, please check [existing open](https://github.com/docker/docker-roadmap/issues), or [recently closed](https://github.com/docker/docker-roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20) . Having a single voted for issue is far easier for us to prioritize 
 
 ## Reporting Bugs
 
@@ -28,7 +28,7 @@ To raise a bug please use:
 
 ## Security issue notifications
 Please do **not** create a public github issue.
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](). Please do **not** create a public github issue.
+If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@docker.com. Please do **not** create a public github issue.
 
 
 ## Licensing
