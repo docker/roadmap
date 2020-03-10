@@ -20,6 +20,7 @@ For Docker Engine and docker-compose we have a release candidate program that al
 
 Note: depending on release timings Docker Desktop may have the RC engine and/or docker-compose, please check the release notes for Docker Desktop to verify the current version in Edge 
 
+
 **Current Programs**
 
 [Windows Edge Channel >>](https://docs.docker.com/docker-for-windows/edge-release-notes/)
