@@ -8,25 +8,32 @@ We want to share with our customers what we plan to do early and often so we can
 
 [See the roadmap »](https://github.com/docker/docker-roadmap/projects)
 
-Contribute to our roadmap »
+[Contribute to our roadmap »](https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
 
 ## Early Access to features 
 
-For Windows and Mac users of Docker we provide early access to new features through our Docker Desktop Edge channel. 
+For users of Docker Desktop we provide early access to new features through our Docker Desktop Edge channel. 
+
 Issues tagged In Preview for Docker Desktop on the public roadmap are available in the Edge Channel. 
+
 For Docker Engine we have a release candidate program that allows users to get early access to versions of Docker engine with new features and changes. Issues tagged In Preview for Docker Engine on the public roadmap are available in the RC version of Engine. 
+
 Note: depending on release timings Docker Desktop may have the RC engine, please check the release notes for Docker Desktop to verify the current version in Edge 
 
 **Current Programs**
 
-Docker Desktop Edge 
+[Windows Edge Channel >>](https://docs.docker.com/docker-for-windows/edge-release-notes/)
+
+[Mac Edge Channel >>](https://docs.docker.com/docker-for-mac/edge-release-notes/)
 
 Docker Engine RCs
 
 **Past Programs**
 Docker Desktop WSL 2 Tech preview - outside of bounds early technical POC of using WSL 2 as the backend for Docker Desktop
 Security disclosures
-If you think you’ve found a potential security issue, please do not post it in the Issues. Instead, please follow the instructions here
+
+**Security**
+If you think you’ve found a potential security issue, please do not post it in the Issues. Instead, please email security@docker.com 
 
 # FAQs
 
@@ -41,8 +48,8 @@ If you think you’ve found a potential security issue, please do not post it in
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it!
 * Working on it - Actively in development, we are trying to get this out to you in a good state as soon as we can.
-* Top of our mind - The next thing we are thinking about working on or addressing as part of our public roadmap 
-* Researching - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
+* We're Writing the Code - The next thing we are thinking about working on or addressing as part of our public roadmap 
+* Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
 
 **Q:** Why are there no dates on your roadmap?
 
