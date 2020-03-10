@@ -33,10 +33,10 @@ Note: depending on release timings Docker Desktop may have the RC engine and/or 
 
 **Past Programs**
 Docker Desktop WSL 2 Tech preview - outside of bounds early technical POC of using WSL 2 as the backend for Docker Desktop
-Security disclosures
 
 **Security**
-If you think you’ve found a potential security issue, please do not post it in the Issues. Instead, please email security@docker.com 
+Please do not create a public github issue. If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@docker.com. Please do not create a public github issue.
+
 
 # FAQs
 
