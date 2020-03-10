@@ -23,6 +23,7 @@ To raise a bug please use:
 * [Docker Desktop Windows](https://github.com/docker/for-win/issues/new)
 * [Docker Desktop Mac](https://github.com/docker/for-mac/issues/new)
 * [Docker Engine](https://github.com/moby/moby/issues/new)
+* [docker-compose](https://github.com/docker/compose/issues)
 
 
 
