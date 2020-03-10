@@ -16,9 +16,10 @@ For users of Docker Desktop we provide early access to new features through our 
 
 Issues tagged In Preview for Docker Desktop on the public roadmap are available in the Edge Channel. 
 
-For Docker Engine we have a release candidate program that allows users to get early access to versions of Docker engine with new features and changes. Issues tagged In Preview for Docker Engine on the public roadmap are available in the RC version of Engine. 
+For Docker Engine and docker-compose we have a release candidate program that allows users to get early access to versions of Docker engine & docker-compose with new features and changes. Issues tagged In Preview for Docker Engine & docker-compose on the public roadmap are available in the RC versions of each product.
 
-Note: depending on release timings Docker Desktop may have the RC engine, please check the release notes for Docker Desktop to verify the current version in Edge 
+Note: depending on release timings Docker Desktop may have the RC engine and/or docker-compose, please check the release notes for Docker Desktop to verify the current version in Edge 
+
 
 **Current Programs**
 
@@ -26,7 +27,9 @@ Note: depending on release timings Docker Desktop may have the RC engine, please
 
 [Mac Edge Channel >>](https://docs.docker.com/docker-for-mac/edge-release-notes/)
 
-Docker Engine RCs
+[Engine Release Channel >>](https://github.com/moby/moby/releases)
+
+[docker-compose Release Channel >>](https://github.com/docker/compose/releases)
 
 **Past Programs**
 Docker Desktop WSL 2 Tech preview - outside of bounds early technical POC of using WSL 2 as the backend for Docker Desktop
