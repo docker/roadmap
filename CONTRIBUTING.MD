@@ -16,7 +16,7 @@ To see what has already been proposed by the community you can look [here](https
 
 ## Reporting Bugs
 
-We would ask that you please don't use this repo to raise bugs, each of our products has it's own repo where issues relating to that product are raised. We have chosen to do this as our products are all quiet different and as a result we need quite different information for each product to best understand how to help you.
+We would ask that you please don't use this repo to raise bugs. Each of our products has it's own repo where issues relating to that product are raised. We have chosen to do this as our products are all quite different, and as a result we need quite different information for each product to best understand how to help you.
 
 To raise a bug please use:
 * [Docker Hub](https://github.com/docker/hub-feedback/issues/new)
