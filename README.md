@@ -41,6 +41,7 @@ Please do not create a public github issue. If you discover a potential security
 # FAQs
 
 **Q:** Is everything on the roadmap?
+
 **A:** Almost everything related to features, we might keep the odd feature a surprise if we really aren’t sure about it. We also won’t be tracking all of our bugs here, we have separate repos for these:
 
 * [Docker Hub](https://github.com/docker/hub-feedback)
