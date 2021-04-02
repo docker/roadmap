@@ -12,27 +12,7 @@ We want to share with our customers what we plan to do early and often so we can
 
 ## Early Access to features 
 
-For users of Docker Desktop we provide early access to new features through our Docker Desktop Edge channel. 
-
-Issues tagged In Preview for Docker Desktop on the public roadmap are available in the Edge Channel. 
-
-For Docker Engine and docker-compose we have a release candidate program that allows users to get early access to versions of Docker engine & docker-compose with new features and changes. Issues tagged In Preview for Docker Engine & docker-compose on the public roadmap are available in the RC versions of each product.
-
-Note: depending on release timings Docker Desktop may have the RC engine and/or docker-compose, please check the release notes for Docker Desktop to verify the current version in Edge 
-
-
-**Current Programs**
-
-[Windows Edge Channel >>](https://docs.docker.com/docker-for-windows/edge-release-notes/)
-
-[Mac Edge Channel >>](https://docs.docker.com/docker-for-mac/edge-release-notes/)
-
-[Engine Release Channel >>](https://github.com/moby/moby/releases)
-
-[docker-compose Release Channel >>](https://github.com/docker/compose/releases)
-
-**Past Programs**
-Docker Desktop WSL 2 Tech preview - outside of bounds early technical POC of using WSL 2 as the backend for Docker Desktop
+For users of Docker Desktop interested in early access to new features please join our [Developer Preview Program](https://www.docker.com/community/get-involved/developer-preview). 
 
 **Security**
 Please do not create a public github issue. If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@docker.com. Please do not create a public github issue.
@@ -51,7 +31,6 @@ Please do not create a public github issue. If you discover a potential security
 
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
-* Developer Preview/Edge - For Docker Desktop Only - In developer preview on the Docker Desktop Edge Channel. See links above for where to find it!
 * Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 2-4 weeks. 
 * We're Writing the Code - Actively in development, we are trying to get this out to you in a good state as soon as we can.
 * Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
