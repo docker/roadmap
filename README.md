@@ -6,7 +6,7 @@ This is the public roadmap for Docker Products and Services (Hub, Desktop, Engin
 # Introduction
 We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building. 
 
-[See the roadmap »](https://github.com/docker/docker-roadmap/projects)
+[See the roadmap »](https://github.com/docker/roadmap/projects/1)
 
 [Contribute to our roadmap »](https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
 
