@@ -14,7 +14,11 @@ We want to share with our customers what we plan to do early and often so we can
 
 For users of Docker Desktop interested in early access to new features please join our [Developer Preview Program](https://www.docker.com/community/get-involved/developer-preview). 
 
-**Security**
+## Participate in User Research
+During these live feedback sessions we will often show work in progress features or ideas to get your input on, or ask you more about how you use Docker to discover any pain points when working with the product. We use these insights to help prioritize our roadmap and improve the user experience. Each session is typically 30 minutes to an hour. If you would like to take part in one of our user research studies please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSeYA_iTuR4lcz_ahrXgUJkTndtmxOXZoxC36Hm78ehvLbKLag/viewform?usp=sf_link) and we will reach out to you when we have something to research or test.
+
+
+## Security
 Please do not create a public github issue. If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@docker.com. Please do not create a public github issue.
 
 
