@@ -30,6 +30,7 @@ Please do not create a public github issue. If you discover a potential security
 
 * [Docker Hub](https://github.com/docker/hub-feedback)
 * [Docker Engine](https://github.com/docker/for-linux)
+* [Docker Desktop Linux](https://github.com/docker/desktop-linux/issues)
 * [Docker Desktop Windows](https://github.com/docker/for-win/issues)
 * [Docker Desktop Mac](https://github.com/docker/for-mac/issues) 
 
