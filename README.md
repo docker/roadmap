@@ -36,7 +36,7 @@ Please do not create a public github issue. If you discover a potential security
 
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
-* Beta - Shipped, but there may be occassional issues.
+* Beta - Shipped, but there may be occasional issues.
 * Upcoming - We are applying the finishing touches. Will be available as a beta feature soon.
 * Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
 * Considering - We think that this feature can be useful. 
