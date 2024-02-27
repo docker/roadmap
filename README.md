@@ -1,7 +1,7 @@
 # Docker Roadmap
 
 Thank you for the interest in Docker and our products!
-This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose).
+This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose, Build Cloud).
 
 # Introduction
 We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building. 
@@ -32,7 +32,8 @@ Please do not create a public github issue. If you discover a potential security
 * [Docker Engine](https://github.com/docker/for-linux)
 * [Docker Desktop Linux](https://github.com/docker/desktop-linux/issues)
 * [Docker Desktop Windows](https://github.com/docker/for-win/issues)
-* [Docker Desktop Mac](https://github.com/docker/for-mac/issues) 
+* [Docker Desktop Mac](https://github.com/docker/for-mac/issues)
+* [Docker Build Cloud](https://github.com/docker/build-cloud-feedback)
 
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!

@@ -24,6 +24,7 @@ To raise a bug please use:
 * [Docker Desktop Mac](https://github.com/docker/for-mac/issues/new)
 * [Docker Engine](https://github.com/docker/for-linux/issues/new)
 * [docker-compose](https://github.com/docker/compose/issues/new)
+* [Docker Build Cloud](https://github.com/docker/build-cloud-feedback/issues)
 
 
 
