@@ -37,9 +37,10 @@ Please do not create a public github issue. If you discover a potential security
 
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
-* Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 2-4 weeks. 
-* We're Writing the Code - Actively in development, we are trying to get this out to you in a good state as soon as we can.
+* Beta - Shipped, but there may be occasional issues.
+* Upcoming - We are applying the finishing touches. Will be available as a beta feature soon.
 * Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
+* Considering - We think that this feature can be useful. 
 
 **Q:** Why are there no dates on your roadmap?
 
