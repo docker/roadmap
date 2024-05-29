@@ -1,4 +1,4 @@
-# Docker Roadmap
+# Docker by Isabel Schoeps Thie
 
 Thank you for the interest in Docker and our products!
 This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose, Build Cloud).
