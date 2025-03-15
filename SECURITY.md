@@ -1,0 +1,178 @@
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+
+This PC private mapper for Docker Products and Services (Hub, Desktop, Engine, docker-compose).
+
+
+ right, things for us to be focusing on. 
+ This also customers to make early decisions based on what we are/are not building. 
+(https://github.com/docker/roadmap/projects/1)
+
+[C(https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD)
+
+## Early Access to features 
+
+For users of Docker Desktop interested in early access to new features please join our [Developer Preview Program](https://www.docker.com/community/get-involved/developer-preview). 
+
+## Participate in User Research
+During these live feedback sessions we will often show work in progress features or ideas to get your input on, or ask you more about how you use Docker to discover any pain points when working with the product. We use these insights to help prioritize our roadmap and improve the user experience. Each session is typically 30 minutes to an hour. If you would like to take part in one of our user research studies please [sign up](https://survey.alchemer.com/s3/6810323/Docker-Research-Participant-Survey) and we will reach out to you when we have something to research or test.
+
+
+## Security
+Please do not create a public github issue. If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@docker.com. Please do not create a public github issue.
+
+
+# FAQs
+
+**Q:** Is everything on the roadmap?
+
+**A:** Almost everything related to features, we might keep the odd feature a surprise if we really aren’t sure about it. We also won’t be tracking all of our bugs here, we have separate repos for these:
+
+* [Docker Hub](https://github.com/docker/hub-feedback)
+* [Docker Engine](https://github.com/docker/for-linux)
+* [Docker Desktop Linux](https://github.com/docker/desktop-linux/issues)
+* [Docker Desktop Windows](https://github.com/docker/for-win/issues)
+* [Docker Desktop Mac](https://github.com/docker/for-mac/issues) 
+
+**Q:** What do the roadmap categories mean?
+* Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
+* Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 2-4 weeks. 
+* We're Writing the Code - Actively in development, we are trying to get this out to you in a good state as soon as we can.
+* Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
+
+**Q:** Why are there no dates on your roadmap?
+
+**A:** Because we know things change and we want the room to do the right thing by fixing security issues as they come up or helping people out where they need. This means we might have to change our priorities and don’t want to let people down. 
+
+**Q:** How can I provide feedback or ask for more information?
+
+**A:** Please open an issue in this repo! If the issue is a bug or security issue, please follow the separate instructions above.
+
+**Q:** How can I request a feature be added to the roadmap?
+
+**A:** Please open an issue! You can read about how to contribute [here](https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
+
+**Q:** Will you accept a pull request?
+
+**A:** We haven't worked out how pull requests should work for a public roadmap page, but we will take all PRs very seriously and review for inclusion. Read about contributing. We review these each week. 
+
+# License
+This library is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+If you are curious about anything else Docker related then please head over to: www.docker.com 
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.
